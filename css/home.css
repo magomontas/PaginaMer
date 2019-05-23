@@ -1,0 +1,16 @@
+.fondo{
+	height: 100vh;
+	background: url("https://mdbootstrap.com/img/Photos/Others/images/78.jpg"); 
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+.gris{
+	/* background: rgba(0,54,155,0.774); */
+	background: rgba(0,0,0,0.199);
+}
+.drop{
+	background: rgba(17, 1, 107, 0.39);
+}
+.top-nav-collapse{
+	background: rgba(0,54,155,0.774) !important;
+}
